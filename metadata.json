@@ -1,0 +1,6 @@
+{
+  "name": "MARS-X | AI Gesture-Controlled Rover",
+  "description": "Futuristic mission-control interface for piloting a Mars rover using real-time browser-based computer vision hand tracking and gesture recognition.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
